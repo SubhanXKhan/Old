@@ -37,9 +37,9 @@ git clone https://github.com/SubhanXKhan/Old.git
 
 cd Old
 
-python Old-Clone
+python Old-Clone.py
 
-```
+
 
  
 
